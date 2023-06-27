@@ -1,0 +1,18 @@
+/*Menu Styles*/
+header {
+    width: 100%;
+}
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-menu, ul {
+    display: flex;
+    list-style: none;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+.nav-menu li {
+    margin-right: 30px;
+}
