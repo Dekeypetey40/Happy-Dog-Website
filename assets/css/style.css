@@ -1,35 +1,52 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Rokkitt&display=swap');
 * {
     margin: 0;
     padding: 0;
     border: none;
 }
 body {
-    font-family: roboto, Helvetica, sans-serif;
+    font-family: Rokkitt, Helvetica, sans-serif;
     font-weight: 400;
-}
-#logo {
-    font-family: roboto, Helvetica, sans-serif;
-    font-weight: 700;
+    color: #3a3a3a;
 }
 
 
 
-/*Menu Styles*/
+/* headings and logo*/
 header {
     width: 100%;
 }
-#navbar {
+h1, h2
+#logo {
+    font-family: roboto bold, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 200%;
+    text-transform: uppercase;
+    color: #252525;
+    letter-spacing: 4px;
+    margin-left: 30px;
+
+    
+}
+/*Menu Styles*/
+#menu {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
+
 .nav-menu, ul {
     display: flex;
     list-style: none;
     text-transform: uppercase;
     letter-spacing: 4px;
 }
+#menu a{
+    text-decoration: none;
+    color: inherit;
+
+}
 .nav-menu li {
     margin-right: 30px;
 }
+
