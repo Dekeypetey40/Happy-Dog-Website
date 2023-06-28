@@ -99,6 +99,9 @@
 - ##### Media
   - Icon for my website was taken from https://www.flaticon.com/
     -<a href="https://www.flaticon.com/free-icons/dog" title="dog icons">Dog icons created by Freepik - Flaticon</a>
+
+  -All other photos are taken from unsplash
+    -Hero photo by Jamie Street on Unsplash
   
 
 ---
