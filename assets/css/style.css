@@ -17,11 +17,11 @@ body {
 header {
     width: 100%;
 }
-h1, h2
-#logo {
+
+h1, #logo {
     font-family: roboto bold, Helvetica, sans-serif;
     font-weight: 700;
-    font-size: 200%;
+    font-size: 250%;
     text-transform: uppercase;
     color: #a37cf0;
     letter-spacing: 4px;
@@ -30,6 +30,7 @@ h1, h2
 
     
 }
+
 /*Menu Styles*/
 #menu {
     display: flex;
@@ -104,6 +105,43 @@ h1, h2
     animation-duration: 3s;
     animation-fill-mode: forwards;
 }
+
+/*ethos sections*/
+#main-container {
+    width: 100%;
+    height: 600px;
+}
+.ethos-section div {
+    background-color: #a37cf0;
+    padding-top: 10%;
+    padding-bottom: 20%;
+    margin-bottom: 2em;
+    margin-left: 2em;
+    margin-right: 2em;
+    border: 3px #3a3a3a solid;
+    
+}
+#ethos-section-left {
+    display: flex;¨
+    
+}
+#ethos-section-right {
+    display: flex;¨
+    
+}
+
+.left-about {
+   width: 50%;
+}
+.right-about {
+    width: 50%;
+   
+}
+
+
+
+
+
 
 @keyframes hero-enter {
     from {
