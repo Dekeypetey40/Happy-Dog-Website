@@ -196,7 +196,7 @@ footer {
 
 @keyframes hero-enter {
     from {
-      background-position: left center;
+      background-position: top center;
     }
     to {
       background-position: center center;
