@@ -93,6 +93,7 @@
 ### Credits
 S
 - ##### Content
+Code for social media footer was taken from Code Institute's Love Running project. 
  
  
  
@@ -103,6 +104,7 @@ S
   -All other photos are taken from unsplash
     -Hero photo by Jamie Street on Unsplash
     -Ethos background photo by Cole Wyland on Unsplash
+
   
 
 ---
