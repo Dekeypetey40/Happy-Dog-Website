@@ -68,7 +68,8 @@
 ### Bugs
 
 - ##### Solved bugs
-
+-My ethos section on the homepage became unresponsive
+-I solved it by realizing I had inputted the incorrect id in my media query.
   ***
 - ##### Unsolved bugs
 
