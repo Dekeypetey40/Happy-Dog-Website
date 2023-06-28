@@ -84,12 +84,14 @@ h1, h2
     text-transform: uppercase;
     letter-spacing: 4px;
     text-align: center;
+    color: whitesmoke;
 
     width: 35%;
     height: 5em;
 
-    padding-top: 60px;
+    padding-top: 30px;
     padding-left: 10px;
+    padding-bottom: 30px;
 
     background-color: #a37cf088;
 
