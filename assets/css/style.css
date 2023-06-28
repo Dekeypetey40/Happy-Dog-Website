@@ -146,7 +146,38 @@ h1, #logo {
    
 }
 
-@media (max-width: 800px) {
+
+/*Footer*/
+footer {
+    height: 10em;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+    flex-direction: column;
+  }
+  
+  .social-networks {
+    display: flex;
+    list-style: none;
+  }
+  
+  .social-networks li {
+    display: block;
+    position: relative;
+    font-size: 230%;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    margin: 0 20px;
+  }
+  
+  .social-networks a {
+    color: black;
+  }
+  
+
+  @media (max-width: 800px) {
     
     #ethos-section-left {
         display: flex;
