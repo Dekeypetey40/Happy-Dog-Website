@@ -8,6 +8,7 @@ body {
     font-family: Rokkitt, Helvetica, sans-serif;
     font-weight: 400;
     color: #3a3a3a;
+    text-align: center;
 }
 
 
@@ -22,7 +23,7 @@ h1, h2
     font-weight: 700;
     font-size: 200%;
     text-transform: uppercase;
-    color: #252525;
+    color: #a37cf0;
     letter-spacing: 4px;
     margin-left: 30px;
 
