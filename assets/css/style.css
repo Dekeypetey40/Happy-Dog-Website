@@ -112,9 +112,12 @@ h1, #logo {
 }
 #main-container {
     width: 100%;
+    height: 100%;
+    background-image: url(../images/ethos-background-image.jpg);
+    background-size: cover;
 }
 .ethos-section div {
-    background-color: #a37cf0;
+    background-color: #a37cf088;
     padding-bottom: 20%;
     margin-bottom: 4em;
     margin-left: 4em;
@@ -122,12 +125,14 @@ h1, #logo {
     border: 3px #3a3a3a solid;
     
 }
-#ethos-section-left {
+#ethos-section-top {
     display: flex;
-  
     
 }
-#ethos-section-right {
+#ethos-section-top div {
+    margin-top: 4em;
+}
+#ethos-section-bottom {
     display: flex;
     
     
