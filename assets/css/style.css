@@ -26,6 +26,7 @@ h1, h2
     color: #a37cf0;
     letter-spacing: 4px;
     margin-left: 30px;
+    
 
     
 }
@@ -34,6 +35,7 @@ h1, h2
     display: flex;
     justify-content: space-between;
     align-items: center;
+    line-height: 75px;
 }
 
 .nav-menu, ul {
@@ -51,3 +53,9 @@ h1, h2
     margin-right: 30px;
 }
 
+.nav-menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
