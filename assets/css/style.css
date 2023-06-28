@@ -86,9 +86,9 @@ h1, h2
     text-align: center;
 
     width: 35%;
-    height: 35%;
+    height: 5em;
 
-    padding-top: 40px;
+    padding-top: 60px;
     padding-left: 10px;
 
     background-color: #a37cf088;
@@ -97,6 +97,10 @@ h1, h2
     right:40px;
 
     position: absolute;
+
+    animation-name: cover-text-appear;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
 }
 
 @keyframes hero-enter {
