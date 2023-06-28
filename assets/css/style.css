@@ -179,11 +179,11 @@ footer {
 
   @media (max-width: 800px) {
     
-    #ethos-section-left {
+    #ethos-section-top {
         display: flex;
         flex-wrap: wrap;
     }
-    #ethos-section-right {
+    #ethos-section-bottom {
         display: flex;
         flex-wrap: wrap;
     }
