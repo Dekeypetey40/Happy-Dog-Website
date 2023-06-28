@@ -124,20 +124,34 @@ h1, #logo {
     
 }
 #ethos-section-left {
-    display: flex;¨
+    display: flex;
+  
     
 }
 #ethos-section-right {
-    display: flex;¨
+    display: flex;
+    
     
 }
 
 .left-about {
-   width: 50%;
+   flex: 50%;
 }
 .right-about {
-    width: 50%;
+    flex: 50%
    
+}
+
+@media (max-width: 800px) {
+    
+    #ethos-section-left {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    #ethos-section-right {
+        display: flex;
+        flex-wrap: wrap;
+    }
 }
 
 
