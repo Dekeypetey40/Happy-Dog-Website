@@ -91,7 +91,7 @@
 ---
 
 ### Credits
-
+S
 - ##### Content
  
  
@@ -102,6 +102,7 @@
 
   -All other photos are taken from unsplash
     -Hero photo by Jamie Street on Unsplash
+    -Ethos background photo by Cole Wyland on Unsplash
   
 
 ---
