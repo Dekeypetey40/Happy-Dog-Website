@@ -35,9 +35,16 @@ h3 {
     font-size: 150%;
     color: whitesmoke;
 }
-.ethos-header {
+.section-head {
     font-size: 200%;
     color: white;
+    margin: 30px 0;
+    background-color: #3BB143;
+    display: inline-block;
+    padding: 0 15px;
+    box-shadow:0px 0px 15px 10px #3BB143;
+    border: 1px solid #3BB143 ;
+
     
 }
 
@@ -117,6 +124,25 @@ h3 {
     animation-duration: 3s;
     animation-fill-mode: forwards;
 }
+/*Animations for hero section*/
+
+@keyframes hero-enter {
+    from {
+      background-position: top center;
+    }
+    to {
+      background-position: center center;
+    }
+  }
+
+  @keyframes cover-text-appear {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
 
 /*ethos sections*/
 #ethos-head {
@@ -202,31 +228,24 @@ footer {
     color: black;
   }
   
+/*Gallery*/
+#gallery {
+    margin-bottom: 30px;
+}
+.gallery-row {
 
-  
+}
+.gallery-half {
+    
+}
 
 
 
 
 
 
-@keyframes hero-enter {
-    from {
-      background-position: top center;
-    }
-    to {
-      background-position: center center;
-    }
-  }
 
-  @keyframes cover-text-appear {
-    from {
-      opacity: 0;
-    }
-    to {
-      opacity: 1;
-    }
-  }
+
 
 @media (max-width: 800px) {
     
