@@ -128,6 +128,7 @@ h3 {
     height: 100%;
     background-image: url(../images/ethos-background-image.jpg);
     background-size: cover;
+    
 }
 .ethos-section div {
     background-color: #a37cf0aa;
@@ -243,6 +244,19 @@ footer {
     }
     .nav-menu {
         margin-left: 30px;
+    }
+}
+
+@media (max-width: 400px) {
+    #logo {
+        font-size: 200%;
+        margin-bottom: 0;
+    }
+    #cover-text {
+        font-size: 90%;
+    }
+    #ethos-head {
+        font-size: 150%;
     }
 }
 
