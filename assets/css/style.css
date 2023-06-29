@@ -32,9 +32,12 @@ h3 {
     
     padding-top: 15%;
     font-size: 150%;
+    color: whitesmoke;
 }
 .ethos-header {
-    font-size: 200%
+    font-size: 200%;
+    color: white;
+    
 }
 
 /*Menu Styles*/
@@ -86,8 +89,8 @@ h3 {
 
 }
 #cover-text {
-    font-size: 200%;
-    font-family: oswald, sans-serif;
+    font-size: 120%;
+    font-family: inherit;
     text-transform: uppercase;
     letter-spacing: 4px;
     text-align: center;
@@ -114,7 +117,10 @@ h3 {
 
 /*ethos sections*/
 #ethos-head {
-    font-size: 250%;
+    font-size: 200%;
+    color: #a37cf0;
+    font-family: roboto bold, Helvetica, sans-serif;
+    text-transform: uppercase;
 }
 
 #main-container {
@@ -124,7 +130,7 @@ h3 {
     background-size: cover;
 }
 .ethos-section div {
-    background-color: #a37cf088;
+    background-color: #a37cf0aa;
     padding-bottom: 15%;
     margin-bottom: 4em;
     margin-left: 4em;
