@@ -18,7 +18,7 @@ header {
     width: 100%;
 }
 
-h1, #logo {
+#logo {
     font-family: roboto bold, Helvetica, sans-serif;
     font-weight: 700;
     font-size: 250%;
@@ -27,8 +27,14 @@ h1, #logo {
     letter-spacing: 4px;
     margin-left: 30px;
     
-
+}
+h3 {
     
+    padding-top: 15%;
+    font-size: 150%;
+}
+.ethos-header {
+    font-size: 200%
 }
 
 /*Menu Styles*/
@@ -80,7 +86,7 @@ h1, #logo {
 
 }
 #cover-text {
-    font-size: 130%;
+    font-size: 200%;
     font-family: oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -110,6 +116,7 @@ h1, #logo {
 #ethos-head {
     font-size: 250%;
 }
+
 #main-container {
     width: 100%;
     height: 100%;
@@ -118,11 +125,19 @@ h1, #logo {
 }
 .ethos-section div {
     background-color: #a37cf088;
-    padding-bottom: 20%;
+    padding-bottom: 15%;
     margin-bottom: 4em;
     margin-left: 4em;
     margin-right: 4em;
     border: 3px #3a3a3a solid;
+h3 {
+    
+    padding-top: 15%;
+    font-size: 150%;
+}
+.ethos-header {
+    font-size: 200%
+}
     
 }
 #ethos-section-top {
