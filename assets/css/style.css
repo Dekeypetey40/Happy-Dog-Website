@@ -9,6 +9,7 @@ body {
     font-weight: 400;
     color: #3a3a3a;
     text-align: center;
+    background-color: grey;
 }
 
 
@@ -23,7 +24,7 @@ header {
     font-weight: 700;
     font-size: 250%;
     text-transform: uppercase;
-    color: #a37cf0;
+    color: 	#3BB143;
     letter-spacing: 4px;
     margin-left: 30px;
     
@@ -53,6 +54,8 @@ h3 {
     list-style: none;
     text-transform: uppercase;
     letter-spacing: 4px;
+    color: 	#3BB143;
+    font-weight: bold;
 }
 #menu a{
     text-decoration: none;
@@ -64,10 +67,10 @@ h3 {
 }
 
 .nav-menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid 	#3BB143;
 }
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid 	#3BB143;
 }
 
 /*Hero Image*/
@@ -103,7 +106,7 @@ h3 {
     padding-left: 10px;
     padding-bottom: 40px;
 
-    background-color: #a37cf088;
+    background-color: 	#3BB14388;
 
     bottom: 40px;
     right:40px;
@@ -118,7 +121,7 @@ h3 {
 /*ethos sections*/
 #ethos-head {
     font-size: 200%;
-    color: #a37cf0;
+    color: 	whitesmoke;
     font-family: roboto bold, Helvetica, sans-serif;
     text-transform: uppercase;
 }
@@ -132,7 +135,7 @@ h3 {
     
 }
 .ethos-section div {
-    background-color: #a37cf0aa;
+    background-color: 	#3BB143aa;
     padding-bottom: 15%;
     margin-bottom: 4em;
     margin-left: 4em;
