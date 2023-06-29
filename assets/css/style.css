@@ -241,23 +241,29 @@ footer {
         
     }
     #logo {
-        margin-right: 100px;
+        margin-right: 75px;
     }
     .nav-menu {
         margin-left: 30px;
     }
 }
 
-@media (max-width: 400px) {
-    #logo {
-        font-size: 200%;
-        margin-bottom: 0;
-    }
+@media (max-width: 420px) {
+    
     #cover-text {
         font-size: 90%;
     }
     #ethos-head {
         font-size: 150%;
     }
+}
+@media (max-width: 380px) {
+    #logo {
+        font-size: 200%;
+    }
+    .nav-menu a {
+        font-size: 80%;
+    }
+
 }
 
