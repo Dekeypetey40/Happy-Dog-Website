@@ -35,6 +35,53 @@
   </nav>
 
   </header>
+
+  <main id="sign-up-section">
+    <form action="response.html" method="get">
+        <h2>Contact us to make your pup a Happy dog <i class="fa-solid fa-dog"></i></h2>
+        <div class="input-section"></div>
+            <input id="fname" type="text" placeholder=" " aria-label="First name" required />
+            <label for="fname">First name</label>
+        </div>
+        <div class="input-section">
+            <input id="lname" type="text" placeholder=" " aria-label="Last name" required />
+            <label for="lname">Last name</label>
+        </div>
+      <div class="input-section">
+        <input type="email" id="email" placeholder=" " aria-label="Email address" required />
+        <label for="email">Email address</label>
+      </div>
+      <h3>What are you interested in?</h3>
+        <div class="checkbox-section">
+          <div class="checkbox">
+            <input
+              type="radio"
+              id="forest-walk"
+              name="walk_type"
+              value="forest-walk"
+              required
+              aria-label="Forest walk"
+            />
+            <label for="forest-walk">Forest-walk</label>
+          </div>
+          <div class="checkbox">
+            <input
+              type="radio"
+              id="one-on-one"
+              name="walk_type"
+              value="one-on-one"
+              aria-label="One on one"
+            />
+            <label for="one-on-one">One on one training</label>
+          </div>
+          <div class="checkbox">
+            <input type="radio" id="city-walk" name="walk-type" value="city-walk" aria-label="City walk"/>
+            <label for="city-walk">City walk</label>
+          </div>
+        </div>
+        <input type="submit" value="Submit" aria-label="Submit form"/>
+    </form>
+  </main>
 <footer>
     <div>
       <ul class="social-networks">
