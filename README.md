@@ -105,9 +105,26 @@ S
   - Icon for my website was taken from https://www.flaticon.com/
     -<a href="https://www.flaticon.com/free-icons/dog" title="dog icons">Dog icons created by Freepik - Flaticon</a>
 
-  -All other photos are taken from unsplash
-    -Hero photo by Jamie Street on Unsplash
-    -Ethos background photo by Cole Wyland on Unsplash
+  Hero and ethos section photos taken from unsplash:
+    -Hero photo by Jamie Street 
+    -Ethos background photo by Cole Wyland
+  Gallery photos:
+  -Mastiff photo taken from pixabay
+  Taken from Pexels
+  -Biting puppy (Guilherme Stecanella)
+  -Brown and white dog with ears standing up(Jan Kopczyński)
+  -Black and white dog biting a toy (Karolina Grabowska)
+  Taken from Unsplash:
+  -Two dogs and a woman by a lake and dog looking at toy (Chewy)
+  -Two dogs in the snow (Tadeusz Lakota)
+  -A woman and her dog on a hike (Marcin Jozwiak)
+  -Dog sleeping on a couch (Curtis Thornton)
+  -Dog in hoodie (Karen Winegeart)
+  -Black dog with thank you card (Howie R)
+  -Yawning pug (charlesdeluvio)
+  
+
+
 
   
 
