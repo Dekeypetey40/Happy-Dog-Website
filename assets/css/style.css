@@ -337,6 +337,8 @@ footer {
     .nav-menu a {
         font-size: 50%;
     }
-
+    #cover-text {
+        font-size: 60%;
+    }
 }
 
