@@ -315,7 +315,7 @@ footer {
     }
 }
 
-@media (max-width: 420px) {
+@media (max-width: 440px) {
     
     #cover-text {
         font-size: 90%;
@@ -323,13 +323,19 @@ footer {
     #ethos-head {
         font-size: 150%;
     }
-}
-@media (max-width: 380px) {
     #logo {
         font-size: 200%;
     }
     .nav-menu a {
         font-size: 80%;
+    }
+}
+@media (max-width: 280px) {
+    #logo {
+        font-size: 110%;
+    }
+    .nav-menu a {
+        font-size: 50%;
     }
 
 }
