@@ -267,7 +267,18 @@ footer {
 
 
 
+@media (max-width: 1200px) {
+    .gallery-row {
+        flex-direction: column;
+        height: 100%;
+    }
+    .gallery-half {
+        height: 300px;
+        margin-bottom: 10px;
 
+    }
+    
+}
 @media (max-width: 800px) {
     
     #ethos-section-top {
