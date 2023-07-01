@@ -258,6 +258,56 @@ footer {
 
 
 }
+/*Contact us form*/
+#sign-up-section {
+    background-image: url(/assets/images/contact-shepard.jpg);
+    background-size: cover;
+    background-position: 75% center;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+    align-items: center;
+}
+.contact-form {
+    display: inline-block;
+    margin: 20px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height: fit-content;
+    width: fit-content;
+    background-color: rgba(40, 40, 40, .6);
+    border-radius: 10px;
+    padding: 20px;
+    color: whitesmoke;
+}
+.contact-form h2 {
+    margin-bottom: 10px;
+}
+.input-section input {
+    background: transparent;
+    color: whitesmoke;
+    
+    margin-bottom: 10px;
+    padding: 10px 50px 10px 10px;
+    border: 1px solid whitesmoke;
+    border-radius: 5px;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: whitesmoke;
+    opacity: 1; /* Firefox */
+  }
+  
+  :-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: whitesmoke;
+  }
+  
+  ::-ms-input-placeholder { /* Microsoft Edge */
+    color: whitesmoke;
+  }
+  #interest-heading {
+    padding-top: 10px;
+  }
 
 
 
