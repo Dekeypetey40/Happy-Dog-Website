@@ -242,6 +242,9 @@ a, a:link, a:visited {
 a:hover {
     border-bottom: 1px solid white;
 }
+#logo-home {
+    border-bottom: none;
+}
 #to-top {
     display: flex;
     justify-content: center;
