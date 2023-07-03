@@ -204,8 +204,8 @@ footer {
   margin: 0 20px;
 }
 
-.social-networks a {
-  color: white;
+#github {
+    font-weight: 800; 
 }
 
 /*Gallery*/
@@ -243,18 +243,20 @@ a:hover {
     border-bottom: 1px solid white;
 }
 /*Contact us form*/
-#sign-up-section {
+#sign-up-section, #response-section {
   background-image: url(/assets/images/contact-shepard.jpg);
   background-size: cover;
   background-position: 75% center;
   background-repeat: no-repeat;
   height: 600px;
   width: 100%;
+  display: flex;
+  justify-content: center;
   align-items: center;
+
 }
-.contact-form {
+.contact-form, #thank-you {
   display: inline-block;
-  margin: 20px;
   flex-direction: column;
   align-items: center;
   justify-content: space-around;
