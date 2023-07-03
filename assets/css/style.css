@@ -242,7 +242,7 @@ a, a:link, a:visited {
 a:hover {
     border-bottom: 1px solid white;
 }
-/*Contact us form*/
+/*Contact us and response form*/
 #sign-up-section, #response-section {
   background-image: url(/assets/images/contact-shepard.jpg);
   background-size: cover;
@@ -256,10 +256,10 @@ a:hover {
 
 }
 .contact-form, #thank-you {
-  display: inline-block;
+  display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: space-around;
+  justify-content: center;
   height: fit-content;
   width: fit-content;
   background-color: rgba(40, 40, 40, 0.8);
@@ -307,7 +307,11 @@ input:hover {
   align-items: flex-start;
 }
 .checkbox {
-  margin-left: 7%;
+    text-align: left;
+    width: 15rem;
+    height: 2rem;
+    margin: .5rem 0 0 0;
+    position: relative;
 }
 input[type="submit"] {
   margin-top: 10px;
@@ -322,6 +326,21 @@ input[type="submit"]:hover {
   color: #3bb143;
   background-color: whitesmoke;
 }
+#button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 15rem;
+    height: 3rem;
+    border-radius: 10px;
+    background: none;
+    border: 2px solid white;
+    color: white;
+    font-size: 120%;
+    margin-top: 40px;
+  }
 
 @media (max-width: 1200px) {
   .gallery-row {
