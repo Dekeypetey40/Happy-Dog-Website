@@ -59,6 +59,19 @@ ul {
   color: #3bb143;
   font-weight: bold;
 }
+a, a:link, a:visited {
+    color: #FFFAFA;
+    text-decoration: none;
+  }
+a:hover {
+    border-bottom: 1px solid white;
+}
+.social-networks A {
+    border-bottom: none;
+}
+#logo-home {
+    border-bottom: none;
+}
 #menu a {
   text-decoration: none;
   color: inherit;
@@ -235,16 +248,7 @@ footer {
   width: 100%;
   align-items: center;
 }
-a, a:link, a:visited {
-    color: #FFFAFA;
-    text-decoration: none;
-  }
-a:hover {
-    border-bottom: 1px solid white;
-}
-#logo-home {
-    border-bottom: none;
-}
+
 #to-top {
     display: flex;
     justify-content: center;
