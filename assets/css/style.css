@@ -328,9 +328,9 @@ input[type="submit"], #button {
     font-size: 120%;
     margin-top: 10px;
 }
-input[type="submit"]:hover {
-  color: #3bb143;
-  background-color: whitesmoke;
+input[type="submit"]:hover, #button:hover {
+  color: black;
+  background-color: #3bb143;
 }
 
 @media (max-width: 1200px) {
