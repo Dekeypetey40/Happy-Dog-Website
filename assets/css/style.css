@@ -308,6 +308,31 @@ footer {
   #interest-heading {
     padding-top: 10px;
   }
+  input:hover {
+    border-color: #3BB143;
+  }
+  .checkbox-section {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start
+
+  }
+  .checkbox {
+    margin-left: 7%;
+  }
+input[type="submit"] {
+    margin-top: 10px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #3BB143;
+    color: whitesmoke;
+}
+input[type="submit"]:hover {
+    color: #3BB143;
+    background-color: whitesmoke;
+}
 
 
 
