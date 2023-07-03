@@ -7,9 +7,9 @@
 body {
   font-family: Rokkitt, Helvetica, sans-serif;
   font-weight: 400;
-  color: #3a3a3a;
+  color: black;
   text-align: center;
-  background-color: grey;
+  background-color: black;
 }
 
 /* headings and logo*/
@@ -29,11 +29,9 @@ header {
 h3 {
   padding-top: 15%;
   font-size: 150%;
-  color: whitesmoke;
 }
 .section-head {
   font-size: 200%;
-  color: white;
   margin: 30px 0;
   background-color: #3bb143;
   display: inline-block;
@@ -96,7 +94,6 @@ ul {
   text-transform: uppercase;
   letter-spacing: 4px;
   text-align: center;
-  color: white;
 
   width: 35%;
   height: 5em;
@@ -138,8 +135,7 @@ ul {
 
 /*ethos sections*/
 .ethos-header {
-  font-size: 180%;
-  color: whitesmoke;
+  font-size: 150%;
   font-family: roboto bold, Helvetica, sans-serif;
   text-transform: uppercase;
 }
@@ -149,7 +145,7 @@ ul {
   height: 100%;
   background-image: url(../images/ethos-background-image.jpg);
   background-size: cover;
-  background-position: center;
+  background-position: 0 30%;
 }
 .ethos-section div {
   background-color: #3bb143aa;
@@ -157,14 +153,11 @@ ul {
   margin-bottom: 4em;
   margin-left: 4em;
   margin-right: 4em;
-  h3 {
+}
+h3 {
     padding-top: 15%;
     font-size: 150%;
   }
-  .ethos-header {
-    font-size: 200%;
-  }
-}
 #ethos-section-top {
   display: flex;
 }
@@ -184,6 +177,7 @@ ul {
 
 /*Footer*/
 footer {
+    color: white;
   height: 10em;
   display: flex;
   align-items: center;
@@ -208,7 +202,7 @@ footer {
 }
 
 .social-networks a {
-  color: black;
+  color: white;
 }
 
 /*Gallery*/
@@ -328,7 +322,10 @@ input[type="submit"]:hover {
   }
 }
 @media (max-width: 800px) {
-  #ethos-section-top {
+    #main-container {
+        background-position: center;
+    }
+    #ethos-section-top {
     display: flex;
     flex-wrap: wrap;
   }
