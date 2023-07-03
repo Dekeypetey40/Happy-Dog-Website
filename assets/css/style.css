@@ -359,23 +359,17 @@ input[type="submit"]:hover {
 @media (max-width: 550px) {
   .ethos-header {
     font-size: 130%;
-    color: whitesmoke;
     font-family: roboto bold, Helvetica, sans-serif;
     text-transform: uppercase;
-  }
-  .ethos-section div {
   }
   .ethos-header h3 {
     font-size: 100%;
   }
 }
 @media (max-width: 440px) {
-  #hero-section,
-  #main-container {
-    width: ;
-  }
+ 
   #cover-text {
-    font-size: 90%;
+    font-size: 80%;
   }
   #ethos-head {
     font-size: 120%;
