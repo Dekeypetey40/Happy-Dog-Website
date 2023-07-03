@@ -7,9 +7,12 @@
 body {
   font-family: Rokkitt, Helvetica, sans-serif;
   font-weight: 400;
-  color: black;
+  color: white;
   text-align: center;
   background-color: black;
+}
+main {
+    flex:1 0 auto;
 }
 
 /* headings and logo*/
@@ -232,8 +235,12 @@ footer {
   width: 100%;
   align-items: center;
 }
-a:link {
-    color: white;
+a, a:link, a:visited {
+    color: #FFFAFA;
+    text-decoration: none;
+  }
+a:hover {
+    border-bottom: 1px solid white;
 }
 /*Contact us form*/
 #sign-up-section {
