@@ -232,6 +232,9 @@ footer {
   width: 100%;
   align-items: center;
 }
+a:link {
+    color: white;
+}
 /*Contact us form*/
 #sign-up-section {
   background-image: url(/assets/images/contact-shepard.jpg);
