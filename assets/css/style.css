@@ -313,20 +313,7 @@ input:hover {
     margin: .5rem 0 0 0;
     position: relative;
 }
-input[type="submit"] {
-  margin-top: 10px;
-  border-radius: 2px;
-  padding: 15px 32px 15px 32px;
-  text-align: center;
-  font-size: 100%;
-  background-color: #3bb143;
-  color: whitesmoke;
-}
-input[type="submit"]:hover {
-  color: #3bb143;
-  background-color: whitesmoke;
-}
-#button {
+input[type="submit"], #button {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -339,8 +326,12 @@ input[type="submit"]:hover {
     border: 2px solid white;
     color: white;
     font-size: 120%;
-    margin-top: 40px;
-  }
+    margin-top: 10px;
+}
+input[type="submit"]:hover {
+  color: #3bb143;
+  background-color: whitesmoke;
+}
 
 @media (max-width: 1200px) {
   .gallery-row {
