@@ -242,6 +242,10 @@ a, a:link, a:visited {
 a:hover {
     border-bottom: 1px solid white;
 }
+#to-top {
+    display: flex;
+    justify-content: center;
+}
 /*Contact us and response form*/
 #sign-up-section, #response-section {
   background-image: url(/assets/images/contact-shepard.jpg);
@@ -313,7 +317,7 @@ input:hover {
     margin: .5rem 0 0 0;
     position: relative;
 }
-input[type="submit"], #button {
+input[type="submit"], #button, #back-to-top {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -328,7 +332,7 @@ input[type="submit"], #button {
     font-size: 120%;
     margin-top: 10px;
 }
-input[type="submit"]:hover, #button:hover {
+input[type="submit"]:hover, #button:hover, #back-to-top:hover {
   color: black;
   background-color: #3bb143;
 }
