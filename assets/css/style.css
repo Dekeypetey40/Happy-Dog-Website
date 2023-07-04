@@ -431,6 +431,12 @@ input[type="submit"]:hover, #button:hover, #back-to-top:hover {
     width: fit-content;
   }
 }
+@media (max-width: 360px) {
+  #logo {
+    font-size: 150%;
+  }
+  
+}
 
 @media (max-width: 280px) {
   #logo {
