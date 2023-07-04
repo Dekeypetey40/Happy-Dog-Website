@@ -48,7 +48,10 @@ Potential clients can get basic information about why Happy Dog is a good servic
 ---
 
 - ##### Hero section
-   
+  - Hero section has an animated background image.
+  - Hero section has a text block on top of the background image with a transparant box.
+    - It includes a slogan that contains the company name.
+    - It indicates what benefit the service provides.
 
 ---
 
