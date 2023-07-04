@@ -12,7 +12,7 @@ body {
   background-color: black;
 }
 main {
-    flex:1 0 auto;
+  flex: 1 0 auto;
 }
 
 /* headings and logo*/
@@ -59,18 +59,20 @@ ul {
   color: #3bb143;
   font-weight: bold;
 }
-a, a:link, a:visited {
-    color: #FFFAFA;
-    text-decoration: none;
-  }
+a,
+a:link,
+a:visited {
+  color: #fffafa;
+  text-decoration: none;
+}
 a:hover {
-    border-bottom: 1px solid white;
+  border-bottom: 1px solid white;
 }
 .social-networks A {
-    border-bottom: none;
+  border-bottom: none;
 }
 #logo-home {
-    border-bottom: none;
+  border-bottom: none;
 }
 #menu a {
   text-decoration: none;
@@ -171,9 +173,9 @@ a:hover {
   margin-right: 4em;
 }
 h3 {
-    padding-top: 15%;
-    font-size: 150%;
-  }
+  padding-top: 15%;
+  font-size: 150%;
+}
 #ethos-section-top {
   display: flex;
 }
@@ -193,7 +195,7 @@ h3 {
 
 /*Footer*/
 footer {
-    color: white;
+  color: white;
   height: 10em;
   display: flex;
   align-items: center;
@@ -218,7 +220,7 @@ footer {
 }
 
 #github {
-    font-weight: 800; 
+  font-weight: 800;
 }
 
 /*Gallery*/
@@ -250,11 +252,12 @@ footer {
 }
 
 #to-top {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 /*Contact us and response form*/
-#sign-up-section, #response-section {
+#sign-up-section,
+#response-section {
   background-image: url(../images/contact-shepard.jpg);
   background-size: cover;
   background-position: 75% center;
@@ -264,9 +267,9 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-
 }
-.contact-form, #thank-you {
+.contact-form,
+#thank-you {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -318,28 +321,32 @@ input:hover {
   align-items: flex-start;
 }
 .checkbox {
-    text-align: left;
-    width: 15rem;
-    height: 2rem;
-    margin: .5rem 0 0 0;
-    position: relative;
+  text-align: left;
+  width: 15rem;
+  height: 2rem;
+  margin: 0.5rem 0 0 0;
+  position: relative;
 }
-input[type="submit"], #button, #back-to-top {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-decoration: none;
-    text-transform: uppercase;
-    width: 15rem;
-    height: 3rem;
-    border-radius: 10px;
-    background: none;
-    border: 2px solid white;
-    color: white;
-    font-size: 120%;
-    margin-top: 10px;
+input[type="submit"],
+#button,
+#back-to-top {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  width: 15rem;
+  height: 3rem;
+  border-radius: 10px;
+  background: none;
+  border: 2px solid white;
+  color: white;
+  font-size: 120%;
+  margin-top: 10px;
 }
-input[type="submit"]:hover, #button:hover, #back-to-top:hover {
+input[type="submit"]:hover,
+#button:hover,
+#back-to-top:hover {
   color: black;
   background-color: #3bb143;
 }
@@ -355,10 +362,10 @@ input[type="submit"]:hover, #button:hover, #back-to-top:hover {
   }
 }
 @media (max-width: 800px) {
-    #main-container {
-        background-position: center;
-    }
-    #ethos-section-top {
+  #main-container {
+    background-position: center;
+  }
+  #ethos-section-top {
     display: flex;
     flex-wrap: wrap;
   }
@@ -406,7 +413,6 @@ input[type="submit"]:hover, #button:hover, #back-to-top:hover {
   }
 }
 @media (max-width: 440px) {
- 
   #cover-text {
     font-size: 80%;
   }
@@ -438,7 +444,6 @@ input[type="submit"]:hover, #button:hover, #back-to-top:hover {
   #logo {
     font-size: 150%;
   }
-  
 }
 
 @media (max-width: 280px) {
