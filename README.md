@@ -95,7 +95,24 @@ Potential clients can get basic information about why Happy Dog is a good servic
       ![Contact page](assets/images/contact-page.png) <!-- FIX THIS -->
       ![Response page](assets/images/response-page.png)
 ---
+### Testing
+  - I tested to make sure the website works in the following browsers: Firefox, Chrome and Edge. 
+  - I used Chrome's devtools and [Am I Responsive](https://ui.dev/amiresponsive) to check that the stylings respond and everything functions on all screen sizes. 
+  - I tested every button and link to confirm that they work and lead where they are supposed to. 
 
+### Bugs
+
+- ##### Solved bugs
+  - My ethos section on the homepage became unresponsive to different screen sizes.
+    - I solved it by realizing I had inputted the incorrect id in my media query.
+  - My background image was not appearing on my github page version of the site.
+    - This was solved by inputting a relative filepath to the image.
+  - My logo was underlining when it should not on all pages except the index.html. 
+    - I realized I had forgotten to put an id on the a element for my sign up, gallery, and response pages. 
+  - My performance on my website was not optimal.
+    - I solved this by compressing all of my image files. 
+  - My backgrounds on my homepage where getting cropped on the right side on mobile screens.
+    - My footer was wider than the container for the rest of the page so I shrunk my footer to the same width. 
 
 
   ***
