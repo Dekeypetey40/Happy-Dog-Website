@@ -3,6 +3,35 @@ IMAGE <!-- FIX THIS -->
 [Am I Responsive link](https://ui.dev/amiresponsive?url=https://dekeypetey40.github.io/Happy-Dog-Website/)
 
 ---
+
+# Table Of Contents
+
+- [Introduction](#introduction)
+- [Technologies Used](#technologies-used)
+- [User Stories](#user-stories)
+- [Design](#design)
+  * [Wireframes](#wireframes)
+- [Features](#features)
+  * [Home Page](#home-page)
+    + [Navigation Bar](#navigation)
+    + [Hero Section](#hero-section)
+    + [Ethos Section](#ethos-section)
+    + [Footer](#footer)
+    + [Gallery](#gallery-page)
+    + [Sign Up Page](#sign-up-page)
+- [Future Features](#future-features)
+- [Testing](#testing)
+  * [Validator Testing](validator-testing)
+  * [Bugs](#bugs)
+  * [Solved Bugs](#solved-bugs)
+  * [Manual Testing](#manual-testing)
+- [Deployment](#deployment)
+- [Credits](#credits)
+  * [Content](#content)
+  * [Media](#media)
+
+
+---
 # Introduction
 
 [Happy Dog](https://dekeypetey40.github.io/Happy-Dog-Website/) is a website for a dog walking service.
@@ -38,11 +67,14 @@ The gallery page on mobile screens becomes quite long so a back to top button wa
 The usage of green on this website was to evoke nature. The website assumes dog owners will have more positive feelings if they think their dogs are running around outside.
 
 ## Wireframes
-## Features
 
-### Home page
+Wireframe images  <!-- FIX THIS -->
 
-- ##### Navigation
+# Features
+
+## Home page
+
+- ### Navigation
 - Positioned at the top of the page.
 - The logo is located in the top left corner.
 - In the top right corner there are navigation links.
@@ -60,7 +92,7 @@ The usage of green on this website was to evoke nature. The website assumes dog 
 
 ---
 
-- ##### Hero section
+- ### Hero section
   - Hero section has an animated background image.
   - Hero section has a text block on top of the background image with a transparant box.
     - It includes a slogan that contains the company name.
@@ -68,21 +100,21 @@ The usage of green on this website was to evoke nature. The website assumes dog 
       ![Hero section](assets/images/hero-section.png) <!-- FIX THIS -->
 ---
 
-- ##### Ethos section
+- ### Ethos section
   - The ethos section contains a background image that is responsive to all screen sizes.
   - It contains four sections with transparant backgrounds.
   - It promotes the benefits of the service.
     ![About us section](assets/images/about-us-section.png) <!-- FIX THIS -->
 ---
 
-- ##### Footer
+- ### Footer
   - The footer contains social media links that open in a new tab.
   - Under the social media links there is a text describing the purpose of the website and a link to my github page. 
     ![Footer](assets/images/footer.png) <!-- FIX THIS -->
 
 ---
 
-- #### Gallery page
+- ## Gallery page
 
   - Contains pictures of how dogs are before, during, and after using the service.
   - The gallery is broken up into three sections with four images each. 
@@ -96,7 +128,7 @@ The usage of green on this website was to evoke nature. The website assumes dog 
       ![Gallery page mobile screen](assets/images/gallery-page.png)
 ---
 
-- #### Sign Up page
+- ## Sign Up page
 
   - This page has a sign up form
     - All text input fields are styled and interactive when hovering over them.
@@ -108,14 +140,26 @@ The usage of green on this website was to evoke nature. The website assumes dog 
       ![Contact page](assets/images/contact-page.png) <!-- FIX THIS -->
       ![Response page](assets/images/response-page.png)
 ---
-### Testing
+
+# Future Features
+
+
+# Testing
   - I tested to make sure the website works in the following browsers: Firefox, Chrome and Edge. 
   - I used Chrome's devtools and [Am I Responsive](https://ui.dev/amiresponsive) to check that the stylings respond and everything functions on all screen sizes. 
   - I tested every button and link to confirm that they work and lead where they are supposed to. 
 
-### Bugs
 
-- ##### Solved bugs
+## Validator testing
+* [HTML Validator](https://validator.w3.org/) was run. Some small syntax errors were identified and fixed. After that no errors or warnings were shown. 
+* [CSS Validator](https://validator.w3.org/) was run and no errors were found, but some minor warnings were attended to. At the time of submission the css code successfully passed the validator with no errors and only minor warnings. 
+* Lighthouse in Chrome Developer Tools was used. There were some issues with performance and accessibility. Color choices were changed to to address accessibility and image files were compressed to improve performance. No other errors were found.
+
+Lighthouse screenshot <!-- FIX THIS -->
+
+## Bugs
+
+## Solved bugs
   - My ethos section on the homepage became unresponsive to different screen sizes.
     - I solved it by realizing I had inputted the incorrect id in my media query.
   - My background image was not appearing on my github page version of the site.
@@ -131,32 +175,23 @@ The usage of green on this website was to evoke nature. The website assumes dog 
 
 
   ***
-- ##### Unsolved bugs
+## Unsolved bugs
 
----
+## Manual Testing
 
-### Validator testing
-* [HTML Validator](https://validator.w3.org/) was run. Some small syntax errors were identified and fixed. After that no errors or warnings were shown. 
-* [CSS Validator](https://validator.w3.org/) was run and no errors were found, but some minor warnings were attended to. At the time of submission the css code successfully passed the validator with no errors and only minor warnings. 
-* Lighthouse in Chrome Developer Tools was used. There were some issues with performance and accessibility. Color choices were changed to to address accessibility and image files were compressed to improve performance. No other errors were found.
-
-Lighthouse screenshot <!-- FIX THIS -->
-
-- ##### HTML
-  
-- ##### CSS
-
----
-
-### Deployment
 
 
 ---
 
-### Credits
+# Deployment
 
 
-- ##### Content
+---
+
+# Credits
+
+
+## Content
 -Code for social media footer was taken from Code Institute's Love Running project and was adapted to suit my website. 
 -Section header and gallery styling was inspired by my mentor's (Aleksei Konovalov) Starlight English website: <a href="https://lexach91.github.io/esl-school-website/index.html" target="_blank"
             rel="noopener"
@@ -164,7 +199,7 @@ Lighthouse screenshot <!-- FIX THIS -->
  -I took code from w3schools to color my placeholders and to have it function on all browsers.
  
  
-- ##### Media
+## Media
   - Icon for my website was taken from https://www.flaticon.com/
     -<a href="https://www.flaticon.com/free-icons/dog" title="dog icons">Dog icons created by Freepik - Flaticon</a>
 
