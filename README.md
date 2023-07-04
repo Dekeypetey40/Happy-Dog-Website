@@ -62,7 +62,38 @@ Potential clients can get basic information about why Happy Dog is a good servic
     ![About us section](assets/images/about-us-section.png) <!-- FIX THIS -->
 ---
 
+- ##### Footer
+  - The footer contains social media links that open in a new tab.
+  - Under the social media links there is a text describing the purpose of the website and a link to my github page. 
+    ![Footer](assets/images/footer.png) <!-- FIX THIS -->
 
+---
+
+- #### Gallery page
+
+  - Contains pictures of how dogs are before, during, and after using the service.
+  - The gallery is broken up into three sections with four images each. 
+  - The gallery page is responsive to all screen sizes.
+    - On a desktop screen there are three rows of four images.
+    - On a smaller screen there are six rows with two images each.
+    - On mobile screens there is one column with twelve images. 
+
+      ![Gallery page desktop](assets/images/gallery-page.png)
+      ![Gallery page small screen](assets/images/gallery-page.png) <!-- FIX THIS -->
+      ![Gallery page mobile screen](assets/images/gallery-page.png)
+---
+
+- #### Contact page
+
+  - This page has a sign up form
+    - All text input fields are styled and interactive when hovering over them.
+    - The radio buttons have spacing between them. 
+    - The submit button is styled and is interactive when hovering over it. 
+    - The page responds to all screen sizes. 
+    - Upon submitting the form the user is taken to a thank you page styled in a similar manner.
+
+      ![Contact page](assets/images/contact-page.png) <!-- FIX THIS -->
+      ![Response page](assets/images/response-page.png)
 ---
 
 ### Testing
