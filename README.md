@@ -83,7 +83,7 @@ Potential clients can get basic information about why Happy Dog is a good servic
       ![Gallery page mobile screen](assets/images/gallery-page.png)
 ---
 
-- #### Contact page
+- #### Sign Up page
 
   - This page has a sign up form
     - All text input fields are styled and interactive when hovering over them.
@@ -96,14 +96,8 @@ Potential clients can get basic information about why Happy Dog is a good servic
       ![Response page](assets/images/response-page.png)
 ---
 
-### Testing
 
 
-### Bugs
-
-- ##### Solved bugs
--My ethos section on the homepage became unresponsive
--I solved it by realizing I had inputted the incorrect id in my media query.
   ***
 - ##### Unsolved bugs
 
