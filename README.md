@@ -1,16 +1,26 @@
 # _Happy Dog_
 
 ---
+[Happy Dog](https://dekeypetey40.github.io/Happy-Dog-Website/) is a website for a dog walking service.
 
-
+Potential clients can get basic information about why Happy Dog is a good service, see pictures of dogs out on walks, and sign up for the service. 
 
 ## Technologies used
-
-
+- HTML
+- CSS
+- Font Awesome icons
+- Google fonts 
 
 ---
 
 ## User stories
+- As a first time visitor, I want to get an idea of what benefit the service provides.
+- As a first time visitor, I want the website to be easy to navigate, so I can find what I am looking for. 
+- As a first time visitor, I want to see what will Happy Dog will do with my dog.
+- As a user, I want to easily to be able to sign up for the service and indicate which service I am interested in. 
+- As a user, I want to be able to see who made the website and see their GitHub repository
+- As a user, I want social media links to interact with the company there. I want them to be intuitive and easy to use. 
+- As a mobile device user, I want to interact with a responsive website, so that I can visit it with any device.
 
 
 ---
@@ -20,13 +30,25 @@
 ### Home page
 
 - ##### Navigation
+- Positioned at the top of the page.
+- The logo is located in the top left corner.
+- In the top right corner there are navigation links.
+  - Home link leads to the home page.
+  - Gallery link leads to the gallery page.
+  - Sign up link leads to the sign up page.
+- The link belonging to the page the user is on is underlined.
+- The link that the user hovers over is underlined.
+- The navigation is simple, clear, and easy to use.
+- The navigation bar is responsive on all screen sizes. 
 
+![NavBar desktop](assets/images/nav-bar.png)
+![NavBar mobile](assets/images/nav-bar-mobile.png) <!-- FIX THIS -->
 
 
 ---
 
 - ##### Hero section
-
+   
 
 ---
 
