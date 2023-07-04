@@ -52,37 +52,15 @@ Potential clients can get basic information about why Happy Dog is a good servic
   - Hero section has a text block on top of the background image with a transparant box.
     - It includes a slogan that contains the company name.
     - It indicates what benefit the service provides.
-
+      ![Hero section](assets/images/hero-section.png) <!-- FIX THIS -->
 ---
 
-- ##### About Us section
-
+- ##### Ethos section
+  - The ethos section contains a background image that is responsive to all screen sizes.
+  - It contains four sections with transparant backgrounds.
+  - It promotes the benefits of the service.
+    ![About us section](assets/images/about-us-section.png) <!-- FIX THIS -->
 ---
-
-- ##### Meet Our Team section
-
-
----
-
-- ##### Become Familiar With Our Materials section
-
----
-
-- ##### Footer
-
----
-
-- #### School Tour page
-
-
----
-
-- #### Gallery page
-
-
----
-
-- #### Contact page
 
 
 ---
