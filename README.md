@@ -34,7 +34,7 @@ IMAGE <!-- FIX THIS -->
 ---
 # Introduction
 
-<a href="https://dekeypetey40.github.io/Happy-Dog-Website" rel="noopener" target="_blank">Happy Dog</a> is a website for a dog walking service.
+[Happy Dog](https://dekeypetey40.github.io/Happy-Dog-Website/) is a website for a dog walking service.
 
 Potential clients can get basic information about why Happy Dog is a good service, see pictures of dogs out on walks, and sign up for the service. 
 
