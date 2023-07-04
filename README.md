@@ -1,6 +1,10 @@
 # _Happy Dog_
+IMAGE <!-- FIX THIS -->
+[Am I Responsive link](https://ui.dev/amiresponsive?url=https://dekeypetey40.github.io/Happy-Dog-Website/)
 
 ---
+# Introduction
+
 [Happy Dog](https://dekeypetey40.github.io/Happy-Dog-Website/) is a website for a dog walking service.
 
 Potential clients can get basic information about why Happy Dog is a good service, see pictures of dogs out on walks, and sign up for the service. 
@@ -25,6 +29,15 @@ Potential clients can get basic information about why Happy Dog is a good servic
 
 ---
 
+# Design 
+
+The website is designed as four separate pages to minimize the amount of scrolling required to find the information one is looking for. The main priorities is to present the benefits of the service and give potential customers the feeling that if they use this service their dogs will become overall happier. 
+
+The gallery page on mobile screens becomes quite long so a back to top button was installed to prevent the user having to scroll back up to the top of the page. 
+
+The usage of green on this website was to evoke nature. The website assumes dog owners will have more positive feelings if they think their dogs are running around outside.
+
+## Wireframes
 ## Features
 
 ### Home page
@@ -123,13 +136,15 @@ Potential clients can get basic information about why Happy Dog is a good servic
 ---
 
 ### Validator testing
+* [HTML Validator](https://validator.w3.org/) was run. Some small syntax errors were identified and fixed. After that no errors or warnings were shown. 
+* [CSS Validator](https://validator.w3.org/) was run and no errors were found, but some minor warnings were attended to. At the time of submission the css code successfully passed the validator with no errors and only minor warnings. 
+* Lighthouse in Chrome Developer Tools was used. There were some issues with performance and accessibility. Color choices were changed to to address accessibility and image files were compressed to improve performance. No other errors were found.
+
+Lighthouse screenshot <!-- FIX THIS -->
 
 - ##### HTML
   
 - ##### CSS
-  
-- ##### Accessibility and performance
-  
 
 ---
 
@@ -139,7 +154,8 @@ Potential clients can get basic information about why Happy Dog is a good servic
 ---
 
 ### Credits
-S
+
+
 - ##### Content
 -Code for social media footer was taken from Code Institute's Love Running project and was adapted to suit my website. 
 -Section header and gallery styling was inspired by my mentor's (Aleksei Konovalov) Starlight English website: <a href="https://lexach91.github.io/esl-school-website/index.html" target="_blank"
@@ -152,29 +168,24 @@ S
   - Icon for my website was taken from https://www.flaticon.com/
     -<a href="https://www.flaticon.com/free-icons/dog" title="dog icons">Dog icons created by Freepik - Flaticon</a>
 
-  Hero and ethos section photos taken from unsplash:
-    -Hero photo by Jamie Street 
-    -Ethos background photo by Cole Wyland
-  Gallery photos:
-  -Mastiff photo taken from pixabay
-  Taken from Pexels
-  -Biting puppy (Guilherme Stecanella)
-  -Brown and white dog with ears standing up(Jan Kopczyński)
-  -Black and white dog biting a toy (Karolina Grabowska)
-  Taken from Unsplash:
-  -Two dogs and a woman by a lake and dog looking at toy (Chewy)
-  -Two dogs in the snow (Tadeusz Lakota)
-  -A woman and her dog on a hike (Marcin Jozwiak)
-  -Dog sleeping on a couch (Curtis Thornton)
-  -Dog in hoodie (Karen Winegeart)
-  -Black dog with thank you card (Howie R)
-  -Yawning pug (charlesdeluvio)
+  - Hero and ethos section photos taken from unsplash:
+    - Hero photo by Jamie Street 
+    - Ethos background photo by Cole Wyland
+  - Gallery photos:
+    - Mastiff photo taken from pixabay
+    - Taken from Pexels:
+      - Biting puppy (Guilherme Stecanella)
+      - Brown and white dog with ears standing up(Jan Kopczyński)
+      - Black and white dog biting a toy (Karolina Grabowska)
+    - Taken from Unsplash:
+      - Two dogs and a woman by a lake and dog looking at toy (Chewy)
+      - Two dogs in the snow (Tadeusz Lakota)
+      - A woman and her dog on a hike (Marcin Jozwiak)
+      - Dog sleeping on a couch (Curtis Thornton)
+      - Dog in hoodie (Karen Winegeart)
+      - Black dog with thank you card (Howie R)
+      - Yawning pug (charlesdeluvio)
   
-
-
-
-  
-
 ---
 
-#### Wireframes
+
