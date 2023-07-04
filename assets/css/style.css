@@ -255,7 +255,7 @@ footer {
 }
 /*Contact us and response form*/
 #sign-up-section, #response-section {
-  background-image: url(/assets/images/contact-shepard.jpg);
+  background-image: url(../assets/images/contact-shepard.jpg);
   background-size: cover;
   background-position: 75% center;
   background-repeat: no-repeat;
