@@ -113,6 +113,8 @@ Potential clients can get basic information about why Happy Dog is a good servic
     - I solved this by compressing all of my image files. 
   - My backgrounds on my homepage where getting cropped on the right side on mobile screens.
     - My footer was wider than the container for the rest of the page so I shrunk my footer to the same width. 
+  - My images looked warped at certain screen widths. When I fixed that problem they became cropped in an unappealing way.
+    - I fixed this by shrinking the width of the entire gallery section at certain screen sizes. 
 
 
   ***
