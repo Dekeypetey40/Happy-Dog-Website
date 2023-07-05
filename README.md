@@ -109,7 +109,8 @@ Wireframes were used in the beggining stages of the design phase.
   - The ethos section contains a background image that is responsive to all screen sizes.
   - It contains four sections with transparant backgrounds.
   - It promotes the benefits of the service.
-    ![About us section](assets/images/about-us-section.png) <!-- FIX THIS -->
+    ![Ethos section](assets/images/ethos-section.png)
+    ![Mobile Ethos section](assets/images/mobile-ethos.png)
 ---
 
 - ### Footer
