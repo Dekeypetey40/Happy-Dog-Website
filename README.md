@@ -213,7 +213,13 @@ Lighthouse screenshot <!-- FIX THIS -->
 ---
 
 # Deployment
-
+The site was deployed to GitHub pages. The following steps were taken to do so:
+1. Log in to [Github](https://github.com/)
+2. Navigate to [dekeypetey40/Happy-Dog-Website](https://github.com/Dekeypetey40/Happy-Dog-Website) in the list of repositories
+3. In the GitHub repository, navigate to the [Settings](https://github.com/Dekeypetey40/Happy-Dog-Website/settings) tab
+4. In Settings select [Pages](https://github.com/Dekeypetey40/Happy-Dog-Website/settings/pages) on the left hand menu.
+5. From the source section drop-down menu, select the main branch.
+6. Once the main branch has been selected, click on the save button in the branch section. Wait for the link to be generated and then refresh the page.
 
 ---
 
@@ -221,10 +227,11 @@ Lighthouse screenshot <!-- FIX THIS -->
 
 
 ## Content
-- Code for social media footer was taken from Code Institute's Love Running project and was adapted to suit my website. 
-- Section header and gallery styling was inspired by my mentor's (Aleksei Konovalov) Starlight English website: [Link to Starlight English](https://lexach91.github.io/esl-school-website/index.html)
- - I took code from w3schools to color my placeholders and to have it function on all browsers.
- - I learned how to use flexbox thanks to Kevin Powell's videos on youtube. [Link to Kevin Powell's youtube channel](https://www.youtube.com/@KevinPowell)
+  - Code for social media footer was taken from Code Institute's Love Running project and was adapted to suit my website. 
+  - Section header and gallery styling was inspired by my mentor's (Aleksei Konovalov) Starlight English website: [Link to Starlight English](https://lexach91.github.io/esl-school-website/index.html)
+  - I took code from w3schools to color my placeholders and to have it function on all browsers.
+  - I learned how to use flexbox thanks to Kevin Powell's videos on youtube. [Link to Kevin Powell's youtube channel](https://www.youtube.com/@KevinPowell)
+  - I used Siobhan Gorman's [Sourdough Bakes](https://github.com/siobhanlgorman/Sourdough-Bakes/blob/master/README.md), Aleksei Konovalov's [Starlight English](https://github.com/lexach91/esl-school-website/blob/main/README.md) and Luliia Konovalova's [Animal Shelter](https://github.com/IuliiaKonovalova/animal_shelter/blob/main/README.md)  as inspiration for my own readme. 
  
  
 ## Media
