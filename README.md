@@ -41,12 +41,12 @@
 Potential clients can get basic information about why Happy Dog is a good service, see pictures of dogs out on walks, and sign up for the service. 
 
 ## Technologies used
-- HTML
-- CSS
-- Font Awesome icons
-- Google fonts 
-- VSCode was the main editor used to write my code
-- Balsamiq was used to make wireframes in the design process
+- HTML [HTML link](https://en.wikipedia.org/wiki/HTML)
+- CSS [CSS link](https://en.wikipedia.org/wiki/CSS)
+- Font Awesome icons [Font Awesome link](https://fontawesome.com/)
+- Google fonts [Google Fonts link](https://fonts.google.com/)
+- VSCode was the main editor used to write my code [VScode link](https://code.visualstudio.com/)
+- Balsamiq was used to make wireframes in the design process [Balsamic link](https://balsamiq.com/)
 
 ---
 
