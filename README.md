@@ -236,6 +236,7 @@ The site was deployed to GitHub pages. The following steps were taken to do so:
 
 
 ## Content
+  - A huge thank you to my mentor Aleksei Konovalov for all of his help throughout this process. 
   - Code for social media footer was taken from Code Institute's Love Running project and was adapted to suit my website. 
   - Section header and gallery styling was inspired by my mentor's (Aleksei Konovalov) Starlight English website: [Link to Starlight English](https://lexach91.github.io/esl-school-website/index.html)
   - I took code from w3schools to color my placeholders and to have it function on all browsers.
