@@ -51,12 +51,12 @@ Potential clients can get basic information about why Happy Dog is a good servic
 ---
 
 ## User stories
-- As a first time visitor, I want to get an idea of what benefit the service provides.
+- As a first time visitor, I want to get an idea of what benefit the service provides, so that I become interested in the service.
 - As a first time visitor, I want the website to be easy to navigate, so I can find what I am looking for. 
-- As a first time visitor, I want to see what will Happy Dog will do with my dog.
-- As a user, I want to easily to be able to sign up for the service and indicate which service I am interested in. 
-- As a user, I want to be able to see who made the website and see their GitHub repository
-- As a user, I want social media links to interact with the company there. I want them to be intuitive and easy to use. 
+- As a dog owner, I want to see what will Happy Dog will do with my dog, so that I feel comfortable using the service.
+- As a user, I want to easily to be able to sign up for the service and indicate which service I am interested in, so that I can use the services. 
+- As a user, I want to be able to see who made the website and see their GitHub repository, so that I can see what they can do.
+- As a user, I want easy to use social media links, so that I can interact with the company there. 
 - As a mobile device user, I want to interact with a responsive website, so that I can visit it with any device.
 
 
