@@ -159,7 +159,11 @@ Wireframes were used in the beggining stages of the design phase.
 
 ## Validator testing
 * [HTML Validator](https://validator.w3.org/) was run. Some small syntax errors were identified and fixed. After that no errors or warnings were shown. 
+| ![index validation](assets/images/validator-index.png) | ![gallery validation](assets/images/validator-gallery.png) |
+| ![signup validation](assets/images/validator-signup.png) | ![response validation](assets/images/validator-response.png) |
+
 * [CSS Validator](https://validator.w3.org/) was run and no errors were found, but some minor warnings were attended to. At the time of submission the css code successfully passed the validator with no errors and only minor warnings. 
+![css validation](assets/images/validator-css.png)
 * Lighthouse in Chrome Developer Tools was used. There were some issues with performance and accessibility. Color choices were changed to to address accessibility and image files were compressed to improve performance. No other errors were found.
 
 Lighthouse screenshot <!-- FIX THIS -->
