@@ -78,7 +78,7 @@ Wireframes were used in the beggining stages of the design phase.
 # Features
 
 ## Home page
-
+![Full Home Page](assets/images/full-home-page.png)
 - ### Navigation
 - Positioned at the top of the page.
 - The logo is located in the top left corner.
