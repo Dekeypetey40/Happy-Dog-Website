@@ -130,8 +130,6 @@ Wireframes were used in the beggining stages of the design phase.
     - On mobile screens there is one column with twelve images. 
 
       ![Gallery page desktop](assets/images/full-gallery.png)
-      ![Gallery page desktop](galleryreadme/medium-gallery.png)
-      ![Gallery page desktop](galleryreadme/mobile-gallery.png)
       [Gallery page on smaller screens](https://github.com/Dekeypetey40/Happy-Dog-Website/tree/main/galleryreadme)
 
 - ## Sign Up page
