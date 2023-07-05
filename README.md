@@ -45,6 +45,8 @@ Potential clients can get basic information about why Happy Dog is a good servic
 - CSS
 - Font Awesome icons
 - Google fonts 
+- VSCode was the main editor used to write my code
+- Balsamiq was used to make wireframes in the design process
 
 ---
 
