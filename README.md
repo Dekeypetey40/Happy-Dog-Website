@@ -69,8 +69,12 @@ The gallery page on mobile screens becomes quite long so a back to top button wa
 The usage of green on this website was to evoke nature. The website assumes dog owners will have more positive feelings if they think their dogs are running around outside.
 
 ## Wireframes
+![Home Wireframe](assets/images/wireframe-homepage.png) ![Gallery Wireframe](assets/images/wireframe-gallery.png)
 
-Wireframe images  <!-- FIX THIS -->
+![Sign Up Wireframe](assets/images/wireframe-gallery.png)![Response Wireframe](assets/images/wireframe-gallery.png)
+
+
+
 
 # Features
 
