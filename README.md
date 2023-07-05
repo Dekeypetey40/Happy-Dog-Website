@@ -200,6 +200,7 @@ Lighthouse screenshot <!-- FIX THIS -->
 | YouTube icon in the footer | Click on the YouTube icon | The user is directed to the YouTube page | Yes | Yes | - |
 | Home page | | | | | |
 | Gallery page | | | | | |
+| Back to top button | Click on the back to top button  | The user is directed to the top of the gallery page | yes | yes | |
 | Sign Up page | | | | | |
 | First name input | Enter text | Text is entered | Yes | Yes | If user doesn't enter any text an error message appears |
 | Last name input | Enter text | Text is entered | Yes | Yes | If user doesn't enter any text an error message appears |
