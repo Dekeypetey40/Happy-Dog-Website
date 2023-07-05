@@ -231,7 +231,7 @@ The site was deployed to GitHub pages. The following steps were taken to do so:
   - Section header and gallery styling was inspired by my mentor's (Aleksei Konovalov) Starlight English website: [Link to Starlight English](https://lexach91.github.io/esl-school-website/index.html)
   - I took code from w3schools to color my placeholders and to have it function on all browsers.
   - I learned how to use flexbox thanks to Kevin Powell's videos on youtube. [Link to Kevin Powell's youtube channel](https://www.youtube.com/@KevinPowell)
-  - I used Siobhan Gorman's [Sourdough Bakes](https://github.com/siobhanlgorman/Sourdough-Bakes/blob/master/README.md), Aleksei Konovalov's [Starlight English](https://github.com/lexach91/esl-school-website/blob/main/README.md) and Luliia Konovalova's [Animal Shelter](https://github.com/IuliiaKonovalova/animal_shelter/blob/main/README.md)  as inspiration for my own readme. 
+  - I used Siobhan Gorman's [Sourdough Bakes](https://github.com/siobhanlgorman/Sourdough-Bakes/blob/master/README.md), Aleksei Konovalov's [Starlight English](https://github.com/lexach91/esl-school-website/blob/main/README.md) and Luliia Konovalova's [Animal Shelter](https://github.com/IuliiaKonovalova/animal_shelter/blob/main/README.md) as inspiration for my own readme. 
  
  
 ## Media
