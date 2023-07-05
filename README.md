@@ -240,26 +240,9 @@ The site was deployed to GitHub pages. The following steps were taken to do so:
  
  
 ## Media
-  - Icon for my website was taken from
-    -<a href="https://www.flaticon.com/free-icons/dog" title="dog icons">Dog icons created by Freepik - Flaticon</a>
+  - Icon for my website was taken from [Flaticon](https://www.flaticon.com/)
 
-  - Hero and ethos section photos taken from unsplash:
-    - Hero photo by Jamie Street 
-    - Ethos background photo by Cole Wyland
-  - Gallery photos:
-    - Mastiff photo taken from pixabay
-    - Taken from Pexels:
-      - Biting puppy (Guilherme Stecanella)
-      - Brown and white dog with ears standing up(Jan Kopczyński)
-      - Black and white dog biting a toy (Karolina Grabowska)
-    - Taken from Unsplash:
-      - Two dogs and a woman by a lake and dog looking at toy (Chewy)
-      - Two dogs in the snow (Tadeusz Lakota)
-      - A woman and her dog on a hike (Marcin Jozwiak)
-      - Dog sleeping on a couch (Curtis Thornton)
-      - Dog in hoodie (Karen Winegeart)
-      - Black dog with thank you card (Howie R)
-      - Yawning pug (charlesdeluvio)
+  - Photos taken from [Pixabay](https://pixabay.com/), [Pexels](https://www.pexels.com/) and [Unsplash](https://unsplash.com/)
   
 ---
 
