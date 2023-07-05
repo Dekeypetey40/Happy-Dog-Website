@@ -222,10 +222,9 @@ Lighthouse screenshot <!-- FIX THIS -->
 
 ## Content
 - Code for social media footer was taken from Code Institute's Love Running project and was adapted to suit my website. 
-- Section header and gallery styling was inspired by my mentor's (Aleksei Konovalov) Starlight English website: <a href="https://lexach91.github.io/esl-school-website/index.html" target="_blank"
-            rel="noopener"
-            aria-label="Visit Aleksei Konovalov's Starlight English website (opens in a new tab)"> 
+- Section header and gallery styling was inspired by my mentor's (Aleksei Konovalov) Starlight English website: [Link to Starlight English](https://lexach91.github.io/esl-school-website/index.html)
  - I took code from w3schools to color my placeholders and to have it function on all browsers.
+ - I learned how to use flexbox thanks to Kevin Powell's videos on youtube. [Link to Kevin Powell's youtube channel](https://www.youtube.com/@KevinPowell)
  
  
 ## Media
