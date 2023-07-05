@@ -23,7 +23,7 @@
     + [Sign Up Page](#sign-up-page)
 - [Future Features](#future-features)
 - [Testing](#testing)
-  * [Validator Testing](validator-testing)
+  * [Validator Testing](#validator-testing)
   * [Bugs](#bugs)
   * [Solved Bugs](#solved-bugs)
   * [Manual Testing](#manual-testing)
@@ -67,6 +67,7 @@ Potential clients can get basic information about why Happy Dog is a good servic
 The website is designed as four separate pages to minimize the amount of scrolling required to find the information one is looking for. The main priorities is to present the benefits of the service and give potential customers the feeling that if they use this service their dogs will become overall happier. 
 
 The gallery page on mobile screens becomes quite long so a back to top button was installed to prevent the user having to scroll back up to the top of the page. 
+![Back to top button](assets/images/back-to-top.png)
 
 The usage of green on this website was to evoke nature. The website assumes dog owners will have more positive feelings if they think their dogs are running around outside.
 
@@ -159,8 +160,8 @@ Wireframes were used in the beggining stages of the design phase.
 
 ## Validator testing
 * [HTML Validator](https://validator.w3.org/) was run. Some small syntax errors were identified and fixed. After that no errors or warnings were shown. 
-| ![index validation](assets/images/validator-index.png) | ![gallery validation](assets/images/validator-gallery.png) |
-| ![signup validation](assets/images/validator-signup.png) | ![response validation](assets/images/validator-response.png) |
+![index validation](assets/images/validator-index.png) ![gallery validation](assets/images/validator-gallery.png)
+| ![signup validation](assets/images/validator-signup.png) ![response validation](assets/images/validator-response.png)
 
 * [CSS Validator](https://validator.w3.org/) was run and no errors were found, but some minor warnings were attended to. At the time of submission the css code successfully passed the validator with no errors and only minor warnings. 
 ![css validation](assets/images/validator-css.png)
