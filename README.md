@@ -92,7 +92,7 @@ Wireframes were used in the beggining stages of the design phase.
 - The navigation bar is responsive on all screen sizes. 
 
 ![NavBar desktop](assets/images/desktop-nav-bar.png)
-![NavBar mobile](assets/images/mobile-nav-bar.png.png) 
+![NavBar mobile](assets/images/mobile-nav-bar.png) 
 
 
 ---
@@ -100,9 +100,9 @@ Wireframes were used in the beggining stages of the design phase.
 - ### Hero section
   - Hero section has an animated background image.
   - Hero section has a text block on top of the background image with a transparant box.
-    - It includes a slogan that contains the company name.
-    - It indicates what benefit the service provides.
-      ![Hero section](assets/images/hero-section.png) <!-- FIX THIS -->
+  - It includes a slogan that contains the company name.
+
+  ![Hero section](assets/images/hero-section.png) <!-- FIX THIS -->
 ---
 
 - ### Ethos section
