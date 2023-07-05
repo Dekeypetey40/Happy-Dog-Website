@@ -186,7 +186,28 @@ Lighthouse screenshot <!-- FIX THIS -->
 
 ## Manual Testing
 
-
+| feature | action | expected result | tested | passed | comments |
+| --- | --- | --- | --- | --- | --- |
+| Navbar | | | | | |
+| Logo |Click on the logo |The user is directed to the home page |yes |yes | |
+| Home | Click on the "Home" link | The user is directed to the main page | Yes | Yes | - |
+| Gallery | Click on the "Gallery" link | The user is directed to the gallery page | Yes | Yes | - |
+| Sign Up | Click on the "Sign up" link | The user is directed to the sign up page | Yes | Yes | - |
+| Footer | | | | | |
+| Instagram icon in the footer | Click on the Instagram icon | The user is directed to the Instagram page | Yes | Yes | - |
+| Facebook icon in the footer | Click on the Facebook icon | The user is directed to the Facebook page | Yes | Yes | - |
+| Twitter icon in the footer | Click on the Twitter icon | The user is directed to the Twitter page | Yes | Yes | - |
+| YouTube icon in the footer | Click on the YouTube icon | The user is directed to the YouTube page | Yes | Yes | - |
+| Home page | | | | | |
+| Gallery page | | | | | |
+| Sign Up page | | | | | |
+| First name input | Enter text | Text is entered | Yes | Yes | If user doesn't enter any text an error message appears |
+| Last name input | Enter text | Text is entered | Yes | Yes | If user doesn't enter any text an error message appears |
+| Email input | Enter email | Email is entered | Yes | Yes | If user doesn't enter email an error message appears. If user enters an invalid email, the error message appears |
+| Choose a service checkbox | Click on the checkbox | The checkbox is checked | Yes | Yes | If user does not check a box an error message appears |
+| "Submit" button | Click on the "Submit" button | The user is redirected to the response page | Yes | Yes | - |
+| Response page | | | | | |
+| Return to home button | Click on the return to home page link | The user is redirected to the home page | Yes | Yes | - |
 
 ---
 
