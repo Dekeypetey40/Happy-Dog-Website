@@ -146,7 +146,8 @@ Wireframes were used in the beggining stages of the design phase.
 ---
 
 # Future Features
-
+  - A services offered page with listed prices for each service.
+  - A meet the trainers/dog walker page.
 
 # Testing
   - I tested to make sure the website works in the following browsers: Firefox, Chrome and Edge. 
