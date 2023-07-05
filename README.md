@@ -141,8 +141,8 @@ Wireframes were used in the beggining stages of the design phase.
     - The page responds to all screen sizes. 
     - Upon submitting the form the user is taken to a thank you page styled in a similar manner.
 
-      ![Contact page](assets/images/contact-page.png) <!-- FIX THIS -->
-      ![Response page](assets/images/response-page.png)
+      ![Contact page](assets/images/sign-up.png) 
+      ![Response page](assets/images/response.png)
 ---
 
 # Future Features
