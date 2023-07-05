@@ -1,5 +1,7 @@
 # _Happy Dog_
-IMAGE <!-- FIX THIS -->
+
+![Site on different devices](assets/images/am-i-responsive.png)
+
 [Am I Responsive link](https://ui.dev/amiresponsive?url=https://dekeypetey40.github.io/Happy-Dog-Website/)
 
 ---
