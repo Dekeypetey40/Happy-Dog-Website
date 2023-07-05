@@ -69,10 +69,9 @@ The gallery page on mobile screens becomes quite long so a back to top button wa
 The usage of green on this website was to evoke nature. The website assumes dog owners will have more positive feelings if they think their dogs are running around outside.
 
 ## Wireframes
-![Home Wireframe](assets/images/wireframe-homepage.png) ![Gallery Wireframe](assets/images/wireframe-gallery.png)
 
-![Sign Up Wireframe](assets/images/wireframe-gallery.png)![Response Wireframe](assets/images/wireframe-gallery.png)
-
+Wireframes were used in the beggining stages of the design phase. 
+[Link to wireframe images](https://github.com/Dekeypetey40/Happy-Dog-Website/tree/main/wireframes) 
 
 
 
@@ -92,8 +91,8 @@ The usage of green on this website was to evoke nature. The website assumes dog 
 - The navigation is simple, clear, and easy to use.
 - The navigation bar is responsive on all screen sizes. 
 
-![NavBar desktop](assets/images/nav-bar.png)
-![NavBar mobile](assets/images/nav-bar-mobile.png) <!-- FIX THIS -->
+![NavBar desktop](assets/images/desktop-nav-bar.png)
+![NavBar mobile](assets/images/mobile-nav-bar.png.png) 
 
 
 ---
