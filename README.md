@@ -116,7 +116,7 @@ Wireframes were used in the beggining stages of the design phase.
 - ### Footer
   - The footer contains social media links that open in a new tab.
   - Under the social media links there is a text describing the purpose of the website and a link to my github page. 
-    ![Footer](assets/images/footer.png) <!-- FIX THIS -->
+    ![Footer](assets/images/footer-pic.png)
 
 ---
 
@@ -129,7 +129,7 @@ Wireframes were used in the beggining stages of the design phase.
     - On a smaller screen there are six rows with two images each.
     - On mobile screens there is one column with twelve images. 
 
-      ![Gallery page desktop](assets/images/gallery-page.png)
+      ![Gallery page desktop](assets/images/full-gallery.png)
       ![Gallery page small screen](assets/images/gallery-page.png) <!-- FIX THIS -->
       ![Gallery page mobile screen](assets/images/gallery-page.png)
 ---
