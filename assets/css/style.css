@@ -367,6 +367,9 @@ input[type="submit"]:hover,
   #main-container {
     background-position: center;
   }
+  .section-head {
+    font-size: 150%;
+  }
   #ethos-section-top {
     display: flex;
     flex-wrap: wrap;
